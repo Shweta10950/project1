@@ -1,4 +1,4 @@
 # project1
 this is my first git repository.
 <br>
-Author - Shweta Chaturvedi
+Author - Shweta Chaturvedi .
